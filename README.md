@@ -46,7 +46,7 @@ Start the app locally by running:
 npm run dev
 ```
 
-Visit `http://localhost:3000` to see the app in action.
+Visit `http://localhost:5173` to see the app in action.
 
 ## Usage
 
