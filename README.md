@@ -1,6 +1,3 @@
-Here’s a README template for your NotesApp:
-
----
 
 # NotesApp
 
@@ -64,6 +61,4 @@ Feel free to fork the repository, submit issues, or create pull requests to cont
 
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
 
----
 
-Feel free to adjust any details to match your project's specific setup or requirements.
